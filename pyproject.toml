@@ -11,6 +11,7 @@ streamlit = "^1.33.0"
 pandas = "^2.2.2"
 lxml = "^5.2.1"
 yfinance = "^0.2.38"
+matplotlib = "^3.8.4"
 
 
 [tool.poetry.group.dev.dependencies]

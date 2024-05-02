@@ -1,0 +1,1 @@
+{"tickers": {"MSFT": {"name": "MSFT", "last_update": "2024-05-02 20:25:32.939579"}}, "database": {"connection": "main_database\\database"}, "request": {"interval": "1h"}}
